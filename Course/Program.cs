@@ -8,6 +8,8 @@ namespace Course
         {
             sbyte x = 100;
             Console.WriteLine(x);
+
+            Console.WriteLine("Hey world!");
         }
     }
 }
